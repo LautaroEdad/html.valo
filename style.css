@@ -1,0 +1,44 @@
+h1{
+    color: greenyellow;
+    letter-spacing: 5px;
+    margin: 50px;
+    
+}
+.tarjetas{
+    display:flex;
+    justify-content: space-around;
+    width:100%;
+    color: indigo;
+}
+h2{
+    color: greenyellow;  
+}
+h3{
+    color: slateblue;
+}
+img{
+    display: block;
+    margin: unset;
+    width: 2000px;
+}
+h3{
+    color: rgb(0, 217, 255);
+}
+header{
+    background-image: url(https://todovalorant.top/wp-content/uploads/2021/03/valorant-2-rojo-1024x240.jpg?is-pending-load=1);
+    background-color: black;
+    background-position-x: 250px;
+}
+footer{
+    background-color: black;
+}
+body{
+    background-image: url(https://www.fullesports.com/wp-content/uploads/2021/11/Captura.jpg);
+    background-repeat:unset;
+}
+
+
+
+
+
+
